@@ -1,0 +1,107 @@
+html {
+    background-image:url(bg.jpg);
+    background-size: 100%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    margin:0;
+    padding:0;
+}
+
+.centerDiv {
+    text-align: center;
+    position:relative;
+}
+
+#topbar {
+    background-color: #995533;
+    position:sticky;
+    height:70px;
+    border-style:solid;
+    border-width:5px;
+}
+
+#title {
+    position:relative;
+    top: -10%;
+    color:#ffffff;
+    text-shadow: -2px -2px 0 #000, 
+    2px -2px 0 #000,
+     -2px 2px 0 #000,
+      2px 2px 0 #000;
+}
+
+#desc {
+    color:white;
+}
+
+gray {
+    color:#c7c7c7;
+}
+
+#mainBox {
+    background-color:#995533;
+    margin:0 auto;
+    position:relative;
+    width:90%;
+    height:500px;
+    top:75px;
+
+    border-style:solid;
+    border-width:5px;
+    border-radius:20px;
+}
+
+#boxTitle {
+    color:white;
+    position:relative;
+    font-size:45px;
+
+    text-shadow: -3px -3px 0 #000,
+    3px -3px 0 #000,
+    -3px 3px 0 #000,
+    3px 3px 0 #000;
+}
+
+#gen {
+    position:relative;
+    top:100px;
+    width:200px;
+    height:50px;
+    background-image:
+    linear-gradient(to bottom right, #5C4EA2, #572986);
+    color:white;
+    font-size:20px;
+
+    border-style:solid;
+    border-width:5px;
+    border-radius:10px;
+}
+
+#genID {
+    position:relative;
+    top:50px;
+    color:white;
+    font-size:100px;
+    background-image: 
+    linear-gradient(to bottom right, #ffbb00, #ff903b);
+
+    border-style:solid;
+    border-width:10px;
+    border-radius:20px;
+    border-color:black;
+    
+    width:50%;
+    margin:0 auto;
+}
+
+#credits {
+    color:white;
+    position:relative;
+    top:100px;
+}
+
+#hlink {
+    color:aqua;
+}
