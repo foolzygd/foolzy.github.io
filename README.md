@@ -1,2 +1,2 @@
-# foolzy.github.io
+# randomGDid
 Foolzy's dumb website stuff
