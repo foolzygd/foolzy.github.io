@@ -1,5 +1,7 @@
 html {
+    background-color: #287DFF;
     background-image:url(bg.jpg);
+    background-repeat:repeat-y;
     background-size: 100%;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -83,7 +85,7 @@ gray {
     position:relative;
     top:50px;
     color:white;
-    font-size:100px;
+    font-size:8vw;
     background-image: 
     linear-gradient(to bottom right, #ffbb00, #ff903b);
 
